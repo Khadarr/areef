@@ -1,0 +1,24 @@
+.service-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    list-style-type: none;
+    background-color: none;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+    width: 45%;
+}
+
+.icon{
+    width: 30px;
+    height: 45px;
+}
+
+.description{
+    color: #1f3c6d;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

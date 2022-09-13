@@ -1,0 +1,83 @@
+.nav-container{
+    display: flex;
+    justify-content: space-around;
+    background-color:#fff ;
+    margin-bottom: 20px;
+   
+}
+
+.logo{
+    width: 180px;
+    height: 40px;
+    margin: 10px;
+}
+
+.nav-content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 85%;
+    max-width: 1110px;
+    
+}
+.contianer{
+    width: 150px;
+}
+
+.heading-cotainer{
+    margin-right: 30px;
+    display: flex;
+    align-self: flex-start;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    padding-bottom: 0%;
+}
+
+.bashas{
+    color: #3348DC;
+    font-size: 25px;
+    margin-bottom: 0px;
+    margin-top: 10px;
+    text-align: center;
+    background-color: #6fdc6f;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.homeopathy{
+    margin-top: 0px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: #6fdc6f;
+    background-color: #3348DC;
+    padding-right: 0px;
+    width: 180px;
+    padding-bottom: 5px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-bottom: 5%;
+}
+
+.nav-menu{
+    display: flex;
+    min-width: 250px;
+    text-decoration: none;
+}
+
+.nav-link{
+    margin-left: 5px;
+    list-style-type: none;
+}
+
+.link{
+    background: none;
+    outline: none;
+    cursor: pointer;
+    border: none;
+    font-size: 15px;
+    color: black;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+

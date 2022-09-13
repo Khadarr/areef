@@ -1,0 +1,185 @@
+.app-container{
+    background-color: #36a869;
+    height: 210px;
+    border-radius: 8px;
+
+}
+
+.homoeopathy{
+    margin-left: 30px;
+    color: #fff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 29px;
+    font-weight: bolder;
+    width: 320px;
+    text-align:  center;
+    border-radius: 10px;
+   margin: 10px;
+}
+
+.description{
+    line-height: 1.5;
+    width: 550px;
+
+    margin-left: 10px;
+    font-size: 18px;
+    background-color: #fff;
+    color: #1f3c6d;
+    padding: 10px;
+    font-weight: bolder;
+    border-radius: 10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.image-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 10px;
+    
+}
+
+.father{
+    height: 240px;
+    width: 180px;
+    align-self: center;
+    margin-top: 25px;
+    border-radius: 15px;
+    margin-bottom: 12px;    
+}
+
+.quote{
+    width: 280px;
+    text-align: center;
+    align-self: center;
+    font-style: italic;
+    font-size: 18px;
+    color: #1f3c6d;
+    font-weight: 600;
+}
+
+.description-container{
+    display: flex;
+    min-width:200px; 
+    align-items: center;
+    justify-content: center;
+}
+
+.medicine{
+    width: 430px;
+    height: 215px;
+    border-radius: 10px;
+    margin-right: 50px;
+}
+
+.icons{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #c6e6c3;
+    min-height: 30px;
+    margin-bottom: 30px;
+    line-height: 1.5;
+    padding: 5px;
+}
+
+.list{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.list-card{
+    margin: 20px;
+    background-color: #fff;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    max-height: 150px;
+}
+
+.list-card2{
+    
+    background-color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    min-height: 150px;
+    
+}
+
+.icon{
+    margin: 20px;
+    width: 125px;
+
+}
+
+.icon-descripiton{
+    text-align: center;
+   font-weight: 400;
+
+}
+
+.services-container{
+    background-color: #111b1b;
+    min-height: 25vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-bottom: 25px;
+}
+
+.a{
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+}
+
+.bottom-container{
+    text-align: left;
+}
+
+.specialites{
+    font-size: 22px;
+    color: #cfcfcf;
+}
+
+.rogam{
+    color: #fff;
+    font-size: 16px;
+    line-height: 1.4;
+}
+
+.social-container{
+    display: flex;
+    flex-direction: column;
+    margin-top: 25px;
+    margin-left: 20px;
+}
+
+.media-container{
+    display: flex;
+    width: 250px;
+}
+
+.media{
+    margin-left: 10px;
+    margin-top: 18px;
+    color: #fff;
+}
+
+.media-icon{
+    margin-top: 23px;
+    color: #fff;
+}
